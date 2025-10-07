@@ -1,8 +1,8 @@
 # Hi 👋, I'm William Le
 
-SWE Intern @ Microsoft
-Computer Science Student @ UT Arlington
-Competitive Programming Lover
+- SWE Intern @ Microsoft
+- Computer Science Student @ UT Arlington
+- Competitive Programming Lover
 
 ## Skills
 
