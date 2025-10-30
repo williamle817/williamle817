@@ -1,8 +1,11 @@
 # Hi 👋, I'm William Le
 
-- Incoming SWE Intern @ Microsoft
-- Computer Science Student @ UT Arlington
+- Incoming SWE Intern @ [**Microsoft**][msft]
+- Computer Science Student @ [**UT Arlington**][uta]
 - Competitive Programming Lover
+
+[msft]: https://www.microsoft.com/en-us/
+[uta]: https://www.uta.edu/
 
 ## Skills
 
