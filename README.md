@@ -1,9 +1,9 @@
 # Hi 👋, I'm William Le
 in a nonchalant way
 ## About me
-- Incoming SWE Intern @ [**Microsoft**][msft]
-- Computer Science Student @ [**UT Arlington**][uta]
-- Competitive Programming Lover @ [**Yucy**][codeforces]
+- Incoming Software Engineer Intern @ [**Microsoft**][msft]
+- Computer Science Student @ [**UTA**][uta]
+- Competitive Programmer @ [**Yucy**][codeforces]
 
 [msft]: https://www.microsoft.com/en-us/
 [uta]: https://www.uta.edu/
