@@ -1,4 +1,4 @@
-# Hi 👋, I'm William Le
+# Hi 👋, I'm Van Duc Le
 (in a nonchalant way)
 ## About me
 - Incoming Software Engineer Intern @ [**Microsoft**][msft]
