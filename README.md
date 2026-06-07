@@ -1,7 +1,6 @@
-# Hi 👋, I'm Van Duc Le
-(in a nonchalant way)
+# Hi 👋, I'm William Le
 ## About me
-- Incoming Software Engineer Intern @ [**Microsoft**][msft]
+ Software Engineer Intern @ [**Microsoft**][msft]
 - Computer Science Student @ [**UTA**][uta]
 - Competitive Programmer @ [**Yucy**][codeforces]
 
