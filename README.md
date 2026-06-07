@@ -1,6 +1,6 @@
 # Hi 👋, I'm William Le
 ## About me
- Software Engineer Intern @ [**Microsoft**][msft]
+- Software Engineer Intern @ [**Microsoft**][msft]
 - Computer Science Student @ [**UTA**][uta]
 - Competitive Programmer @ [**Yucy**][codeforces]
 
